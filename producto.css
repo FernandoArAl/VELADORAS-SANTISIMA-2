@@ -1,0 +1,50 @@
+#blaki{
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;
+   }
+
+   #duva{
+       width: 250px;
+       height: 450px;
+   
+   }
+   #duva2{
+    width: 400px;
+    height: 400px;
+
+}
+#duva3{
+    width: 300px;
+    height: 300px;
+}
+
+#duva4{
+    width: 300px;
+    height: 300px;
+}
+#duva8{
+    width: 300px;
+    height: 300px;
+}
+
+   #letrasdetalles{
+    display: flex;
+    
+    align-items: center;
+    height: 100%;
+    color:black;
+    font-size: 45px;
+}
+#detalles{
+    display: flex;
+    
+    align-items: center;
+    height: 100%;
+    color:black;
+    font-size: 23px;
+}
+   
+  

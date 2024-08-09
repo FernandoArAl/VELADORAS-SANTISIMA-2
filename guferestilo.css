@@ -1,0 +1,19 @@
+#gufer{
+    display: flex;
+    padding: 150px;
+    flex-wrap: wrap;
+    gap: 80px;
+    justify-content: center;
+   }
+
+   #guf{
+       width: 300px;
+       height: 350px;
+   
+   }
+   
+   img{
+       width: 400px;
+       height: 150px;
+   
+   }
